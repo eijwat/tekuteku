@@ -11,6 +11,11 @@ See here. [GitHub Pages](https://eijwat.github.io/tekuteku/)
 <em>No two lives are alike</em><br>
 <em>Yet the waves are one</em>
 </p>
+
+{: align="center"}
+![tekuteku](tekuteku.png)
+
 ---
+
 
 MIT License
