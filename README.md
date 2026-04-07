@@ -1,4 +1,4 @@
-# tekuteku and hole
+# tekuteku
 
 ### We don’t know why we walk, but we walk
 
