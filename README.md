@@ -2,7 +2,7 @@
 
 ### We don’t know why we walk, but we walk
 
-See & Enjpy! [GitHub Pages](https://eijwat.github.io/tekuteku/)
+See & Enjoy [GitHub Pages](https://eijwat.github.io/tekuteku/)
 
 ---
 <p align="center">
